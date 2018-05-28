@@ -1,0 +1,12 @@
+ARCHIVO candidatos.txt
+	Los primeros 150 candidatos son para alcaldias locales
+	Los siguientes 10 son candidatos a la presidencia
+	Los siguientes 10 son candidatos a la vicepresidencia
+	la información está estructurada así:
+	id nombre apellido CC sexo estadoCivil FechaNacimiento CiudadNatal CiudadResidencia Partido Territorio FormulaVicepresidencial estado
+ARCHIVO partidos.txt
+	la información está estructurada así:
+	id nombre representante estado
+ARCHIVO ciudades.txt
+	la información está estructurada así:
+	id nombre departamento censoElectoral estado
